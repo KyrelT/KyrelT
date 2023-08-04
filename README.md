@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyrelT
-- 👀 I’m interested in putting Machine Learning models into Medical Applications
-- 🌱 I’m currently learning Artificial Intelligence, Computer Vision, Human AI Interactions and Autonomous Robotics in my Final Year for University Of Nottingham
+- 👀 I’m interested in combining both Computer Vision and Machine Learning models into Medical Applications. I'm also interested in combining Computer Vision and Robotics to address real-world problems.
+- 🌱 I’m currently a graduate student at the University Of Nottingham.
 - 💞️ I’m looking to collaborate on making anything that is related to Machine Learning
 - 📫 How to reach me ...
 - Insta: kyrel_tan
