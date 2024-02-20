@@ -3,7 +3,7 @@
 - 🌱 I’m currently a graduate student at the University Of Nottingham.
 - 💞️ I’m looking to collaborate on making anything that is related to Machine Learning, Data, Computer Vision, Front End Developer and Robotics.
 - 📫 How to reach me ...
-- Insta: kyrel_tan
+- Email: kyrelt68@gmail.com
 - LinkedIn: linkedin.com/in/kyrel-tan-6a8446216
 - Whatsapp: +44 7831734584
 
