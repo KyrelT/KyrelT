@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making anything that is related to Machine Learning, Data, Computer Vision, Front End Developer and Robotics.
 - 📫 How to reach me ...
 - Email: kyrelt68@gmail.com
-- LinkedIn: linkedin.com/in/kyrel-tan-6a8446216
+- LinkedIn: linkedin.com/in/kyrelt068
 - Whatsapp: +44 7831734584
 
 <!---
