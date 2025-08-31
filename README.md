@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KyrelT
-- 👀 I’m interested in combining both Computer Vision and Machine Learning models into Medical Applications. I'm also interested in combining Computer Vision and Robotics to address real-world problems.
-- 🌱 I’m currently a candidate of Amazon AWS Cloud practioner.
+- 👀 I'm enthusiast data engineer who likes to deal with big data problems.
+- 🌱 I’m currently a candidate of Amazon AWS Data Engineer.
 - 💞️ I’m looking to collaborate on making anything that is related to Machine Learning, Data, Computer Vision, Front End Developer and Robotics.
 - 📫 How to reach me ...
 - Email: kyrelt68@gmail.com
