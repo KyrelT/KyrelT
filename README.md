@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - Email: kyrelt68@gmail.com
 - LinkedIn: linkedin.com/in/kyrelt068
-- Whatsapp: +44 7831734584
+- Whatsapp: +60 167165768
 
 <!---
 KyrelT/KyrelT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
